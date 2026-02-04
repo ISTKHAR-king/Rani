@@ -1,44 +1,67 @@
+# -----------------------------------------------
+# 🔸 SUKKUMusic Project
+# 🔹 Developed & Maintained by: THUNDER ISTKHAR (https://github.com/itzISTKHAR)
+# 📅 Copyright © 2022 – All Rights Reserved
+#
+# 📖 License:
+# This source code is open for educational and non-commercial use ONLY.
+# You are required to retain this credit in all copies or substantial portions of this file.
+# Commercial use, redistribution, or removal of this notice is strictly prohibited
+# without prior written permission from the author.
+#
+# ❤️ Made with dedication and love by ItzISTKHAR
+# -----------------------------------------------
+
 aiofiles
 aiohttp
-#asyncio==3.4.3
+apscheduler
 asyncio
+bard 
 beautifulsoup4
+bs4
 dnspython
+emojis
 ffmpeg-python
-future==0.18.3
-search_engine_parser
-telethon==1.33.1
 gitpython
-httpx[http2]
-heroku3
+gpytranslate
+gtts
 hachoir
-motor==3.3.2
+heroku3
+httpx
+instaloader
+lexica-api
+motor 
+numpy
+opencv-python
 pillow==9.5.0
 psutil
-py-tgcalls==0.9.7
+pickledb
+pycountry
+pycryptodome
+pydub
+pyfiglet
 pykeyboard
-pymongo==4.6.3
 python-dotenv
-pyyaml==6.0.1
-requests
+python-whois
+pyshorteners
+pyttsx3
+pytz
+pyrofork
+py-tgcalls
+pyrofork
+pyyaml
+py-yt-search
 qrcode
-SafoneAPI==1.0.65
-tgcrypto
-gpytranslate
-MukeshAPI
+requests
+SafoneAPI
+speedtest-cli
+SpeechRecognition
 search_engine_parser
-googlesearch-python
-youtube-search-python
 spotipy
 telegraph
-speedtest-cli
+tgcrypto
 unidecode
-urllib3
 wget
-git+https://github.com/KurimuzonAkuma/pyrogram@dev
+youtube-search
+youtube-search-python
 yt-dlp
-bing_image_downloader
-git+https://github.com/alexmercerind/youtube-search-python@main
-git+https://github.com/joetats/youtube_search@master
-bing-image-urls
-git+https://github.com/TEAMPURVI/PurviAPI
