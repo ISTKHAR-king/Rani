@@ -1,67 +1,27 @@
-# -----------------------------------------------
-# 🔸 SUKKUMusic Project
-# 🔹 Developed & Maintained by: THUNDER ISTKHAR (https://github.com/itzISTKHAR)
-# 📅 Copyright © 2022 – All Rights Reserved
-#
-# 📖 License:
-# This source code is open for educational and non-commercial use ONLY.
-# You are required to retain this credit in all copies or substantial portions of this file.
-# Commercial use, redistribution, or removal of this notice is strictly prohibited
-# without prior written permission from the author.
-#
-# ❤️ Made with dedication and love by ItzISTKHAR
-# -----------------------------------------------
-
 aiofiles
 aiohttp
-apscheduler
-asyncio
-bard 
 beautifulsoup4
-bs4
 dnspython
-emojis
 ffmpeg-python
 gitpython
-gpytranslate
-gtts
 hachoir
 heroku3
-httpx
-instaloader
-lexica-api
-motor 
+httpx[http2]==0.25.2
+motor
 numpy
-opencv-python
 pillow==9.5.0
 psutil
-pickledb
-pycountry
-pycryptodome
-pydub
-pyfiglet
-pykeyboard
+py-tgcalls==2.2.10
+pyrogram==2.0.106
 python-dotenv
-python-whois
-pyshorteners
-pyttsx3
-pytz
-pyrofork
-py-tgcalls
-pyrofork
 pyyaml
-py-yt-search
-qrcode
 requests
-SafoneAPI
 speedtest-cli
-SpeechRecognition
-search_engine_parser
 spotipy
-telegraph
-tgcrypto
 unidecode
-wget
+yt-dlp
 youtube-search
 youtube-search-python
-yt-dlp
+python-telegram-bot==13.15
+py-yt-search
+ntgcalls>=2.0.7
